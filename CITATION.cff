@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MF-RMAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Archit
+    family-names: Sood
+    orcid: 'https://orcid.org/0009-0005-4144-6759'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2402.06348'
+    description: arXiv version
+repository-code: 'https://github.com/rchiso/MF-RMAB'
